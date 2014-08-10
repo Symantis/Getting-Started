@@ -28,7 +28,13 @@ Symantis is for everyone, and so it should be used with the interest of everyone
 A "Manti" is a micro repository that adheres to Symantis guidelines.  Each Manti is compatiable with the Symantis Creator App. A collection of Mantis make up a Symantis Project.
 
 ###Myner
-Myner is the name of the Symantis system's Crytpo Currency. 
+Myner is the name of the Symantis system's Crytpo Currency.
 
 ###Creator App
 The Creator App is the name of the Symantis Web App that allows users to build Manti and Symantis Projects. It's free to use and allows mulitple people to use instances of it in "realtime".  
+
+###Bounty
+A bounty is the offering of Myner Coins in exchange for the creation of a Manti or the resolution of a Query ie. question.  Users can offer bounties to help advance thier knowledge and to have work completed for them.
+
+###Query
+A query is a question posed by a user in the community. It should be Symantis related.
