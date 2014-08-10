@@ -1,7 +1,7 @@
 Philosophy, Code Of Conduct, and Definitions
 ============================================
 
-##The Symantis Philosophy and Code of Conduct
+##The Symantis Philosophy
 
 
 ###What is Symantis?
@@ -17,6 +17,10 @@ Designers can contribute to Symantis by creating Design Elements and turning the
 ###What this means
 
 This means you can create awesome good-will open source projects and get credit (possibly even physical credit) for your work.
+
+##Code of Conduct
+
+Symantis is for everyone, and so it should be used with the interest of everyone in mind.  Using Symantis to create unlawful technologies or devices of descrimination may result in a penalty from the community. Public voting amongst Symantis users is encouraged and forums will be open for the users to voice their opinions.  Controversial decisions will ultimately be made by the primary Symantis organizers, but it is likely that as the system grows so will its needs and new checks and balances will need to be integrated.
 
 ##Definitions
 
